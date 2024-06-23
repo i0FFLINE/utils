@@ -1,7 +1,7 @@
 {
     "name": "ioffline/utils",
     "description": "Just some utils for my packages",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "license": "MIT",
     "authors": [
         {
@@ -21,9 +21,6 @@
         }
     },
     "extra": {
-      "branch-alias": {
-        "dev-master": "0.x.x-dev"
-      },
       "laravel": {
         "aliases": {
           "Sorter": "IOF\\Utils\\Sorter"
